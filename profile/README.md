@@ -21,10 +21,10 @@ Assistant Professor, Department of Aerospace Engineering
 Founder & Director, AVL
 
 ### PhD Candidates  
-- **Mohammadreza Izadi** – Nonlinear control & GNC  
-- **Zeinab Shayan** – Robotics & mechatronics  
-- **Amin Yazdanshenas** – Vision-based RL navigation
-- **SSurrayya Mobeen** - Rotorcraft Dynamics, Estimation & Control
+- **Mohammadreza Izadi** – Nonlinear control, Intelligent optimization, GNC systems & SLAM
+- **Zeinab Shayan** – Research interests: Robotics and Mechatronics & Control Systems
+- **Amin Yazdanshenas** – Robotics, Machine Learning & Computer Vision
+- **SSurrayya Mobeen** - Rotorcraft Dynamics, Artificial Intelligence, Estimation & Control
 
 Interested students and collaborators, check out our [Join Us](https://www.torontomu.ca/autonomous-vehicles-lab/join-us/) page.
 
