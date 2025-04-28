@@ -1,5 +1,3 @@
-# Autonomous Vehicles Laboratory (AVL)
----
 ## 🏁 Overview
 The Autonomous Vehicles Laboratory (AVL) at TMU, led by Prof. Reza Faieghi, pushes the boundaries of provably safe autonomy for unmanned aerial and ground vehicles. We integrate state-of-the-art perception, motion planning, and control to build the next generation of autonomous systems.
 
