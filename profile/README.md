@@ -23,8 +23,8 @@ Founder & Director, AVL
 ### PhD Candidates  
 - **Mohammad Reza Izadi** – Nonlinear control & GNC  
 - **Zeinab Shayan** – Robotics & mechatronics  
-- **Harneet Kaur Sohi** – AI-driven obstacle avoidance  
-- **Amin Yazdanshenas** – Vision-based RL navigation  
+- **Amin Yazdanshenas** – Vision-based RL navigation
+- **SSurrayya Mobeen** - Rotorcraft Dynamics, Estimation & Control
 
 Interested students and collaborators, check out our [Join Us](https://www.torontomu.ca/autonomous-vehicles-lab/join-us/) page.
 
