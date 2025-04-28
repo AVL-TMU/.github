@@ -21,7 +21,7 @@ Assistant Professor, Department of Aerospace Engineering
 Founder & Director, AVL
 
 ### PhD Candidates  
-- **Mohammad Reza Izadi** – Nonlinear control & GNC  
+- **Mohammadreza Izadi** – Nonlinear control & GNC  
 - **Zeinab Shayan** – Robotics & mechatronics  
 - **Amin Yazdanshenas** – Vision-based RL navigation
 - **SSurrayya Mobeen** - Rotorcraft Dynamics, Estimation & Control
