@@ -1,11 +1,5 @@
-<!-- AVL Landing page -->
-![AVL Landing Page](https://www.torontomu.ca/content/dam/autonomous-vehicles-lab/avl_home_page/web3.JPG)
-
 # Autonomous Vehicles Laboratory (AVL)
-**Toronto Metropolitan University**
-
 ---
-
 ## 🏁 Overview
 The Autonomous Vehicles Laboratory (AVL) at TMU, led by Prof. Reza Faieghi, pushes the boundaries of provably safe autonomy for unmanned aerial and ground vehicles. We integrate state-of-the-art perception, motion planning, and control to build the next generation of autonomous systems.
 
@@ -54,10 +48,6 @@ Centre for Urban Innovation (CUI), Room 214
 44 Gerrard St E, Toronto, ON M5B 1G3, Canada  
 - **Email:** avl@torontomu.ca  
 - **Web:** https://www.torontomu.ca/autonomous-vehicles-lab/  
-
-Connect with us:  
-[Twitter](https://twitter.com) • [LinkedIn](https://www.linkedin.com) • [Google Scholar](https://scholar.google.com)
-
 ---
 
 <sub>Built with ❤️ by the AVL team at TMU</sub>
