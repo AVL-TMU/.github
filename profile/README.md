@@ -24,7 +24,7 @@ Founder & Director, AVL
 - **Mohammadreza Izadi** – Nonlinear control, Intelligent optimization, GNC systems & SLAM
 - **Zeinab Shayan** – Research interests: Robotics and Mechatronics & Control Systems
 - **Amin Yazdanshenas** – Robotics, Machine Learning & Computer Vision
-- **SSurrayya Mobeen** - Rotorcraft Dynamics, Artificial Intelligence, Estimation & Control
+- **Surrayya Mobeen** - Rotorcraft Dynamics, Artificial Intelligence, Estimation & Control
 
 Interested students and collaborators, check out our [Join Us](https://www.torontomu.ca/autonomous-vehicles-lab/join-us/) page.
 
